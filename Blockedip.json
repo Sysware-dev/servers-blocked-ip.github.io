@@ -1,0 +1,25 @@
+{
+  "blocked_ip": [
+    "s2.lann.mn:27021",
+    "s2.lann.mn:27022",
+    "s2.lann.mn:27023",
+    "s2.lann.mn:27024",
+    "s2.lann.mn:27025",
+    "s2.lann.mn:27026",
+    "s2.lann.mn:27027",
+    "s2.lann.mn:27028",
+    "s2.lann.mn:27029",
+    "s2.lann.mn:27030",
+
+    "s1.lann.mn:27021",
+    "s1.lann.mn:27022",
+    "s1.lann.mn:27023",
+    "s1.lann.mn:27024",
+    "s1.lann.mn:27025",
+    "s1.lann.mn:27026",
+    "s1.lann.mn:27027",
+    "s1.lann.mn:27028",
+    "s1.lann.mn:27029",
+    "s1.lann.mn:27030"
+  ]
+}
